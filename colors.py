@@ -21,7 +21,6 @@ class Colrenaip:
         
         return colorize
 
-# Definisci una funzione per interpretare la sintassi "colore.testo"
 def print_colored(text):
     try:
         color, message = text.split(".", 1)
