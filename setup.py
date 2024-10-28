@@ -1,4 +1,3 @@
-# setup.py
 from setuptools import setup, find_packages
 
 setup(
@@ -8,7 +7,7 @@ setup(
     description="Libreria per colorare testo nel terminale",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/999ale/colrenaip",  # Sostituisci con l'URL del tuo repository GitHub
+    url="https://github.com/999ale/colrenaip",
     author="Alessandro",
     author_email="alessandro.bressan@enaip.piemonte.it",
     license="MIT",
